@@ -7,7 +7,7 @@ description: Publications page
 ### Related publications
 <br>
 <div style="text-align: left" markdown="1">
-- [![Mutation testing for task-oriented chatbots](../../assets/img/icons/pdfIcon.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://dl.acm.org/doi/10.1145/3661167.3661220) Gómez-Abajo, P., Pérez-Soler, S., Cañizares, P. C., Guerra, E., de Lara, J., 2024. [Mutation testing for task-oriented chatbots](https://dl.acm.org/doi/10.1145/3661167.3661220). In ACM 28th International Conference on Evaluation and Assessment in Software Engineering (EASE). Salerno.
+- [![Mutation testing for task-oriented chatbots](../../assets/img/icons/pdfIcon.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://dl.acm.org/doi/10.1145/3661167.3661220) Gómez-Abajo, P., Pérez-Soler, S., Cañizares, P. C., Guerra, E., de Lara, J., 2024. [Mutation testing for task-oriented chatbots](https://dl.acm.org/doi/10.1145/3661167.3661220). In ACM 28th International Conference on Evaluation and Assessment in Software Engineering 2024 (EASE). Salerno.
 </div>
 <div style="text-align: left" markdown="1">
 - [![Automatic test amplification for executable models](../../assets/img/icons/pdfIcon.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://dl.acm.org/doi/10.1145/3550355.3552451) Khorram, F., Bousse, E., Mottu, J. M., Sunyé, G., Gómez-Abajo, P., C. Cañizares, P., Guerra, E., de Lara, J., 2022. [Automatic test amplification for executable models](https://dl.acm.org/doi/10.1145/3550355.3552451). In ACM/IEEE 25th International Conference on Model Driven Engineering Languages and Systems 2022 (MoDELS), Montreal.
