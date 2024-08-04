@@ -44,7 +44,7 @@ At this point, we would like to thank the developers of the following frameworks
 <br >
 The [Wodel-Test](../../) research project was started by the [miso](https://miso.es) research group in October 2017. Since then, the project has been carried out by [Pablo Gómez-Abajo](https://www.gomezabajo.es/), under the supervision of [Esther Guerra](https://www.ii.uam.es/~eguerra) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), and, additionally, during his PhD. studies, of [Mercedes Merayo](http://antares.sip.ucm.es/mercedes/).
 <br>
-
+<br>
 ### Current
 <br>
 <div style="text-align: left" markdown="1">
