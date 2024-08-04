@@ -43,4 +43,31 @@ description: Publications page
 
 ### Funding
 <br>
+This work has been funded by:
+<br>
+<br>
+<div style="text-align: left" markdown="1">
+- [![PID2021-122270OB-I00, project "FINESSE"](../../assets/img/icons/newpprj_wiz.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](#) 2022-2025. PID2021-122270OB-I00, project "FINESSE". The Spanish Ministry of Science. 
+</div>
+<div style="text-align: left" markdown="1">
+- [![TED2021-129381B-C21, project "SATORI-UAM"](../../assets/img/icons/newpprj_wiz.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://portalcientifico.uam.es/es/ipublic/item/9938951) 2022-2024. TED2021-129381B-C21, project "[SATORI-UAM](https://portalcientifico.uam.es/es/ipublic/item/9938951)". The Spanish State Research Agency.
+</div>
+<div style="text-align: left" markdown="1">
+- [![Marie Skłodowska Curie grant agreement n° 813884, project "Lowcomote"](../../assets/img/icons/newpprj_wiz.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://lowcomote.eu/) 2019-2023. Marie Skłodowska Curie grant agreement n° 813884, project "[Lowcomote](https://lowcomote.eu/)". European Union.
+</div>
+<div style="text-align: left" markdown="1">
+- [![P2018/TCS-4314, project "FORTE"](../../assets/img/icons/newpprj_wiz.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://antares.sip.ucm.es/forte-cm/) 2019-2023. P2018/TCS-4314, project "[FORTE](https://antares.sip.ucm.es/forte-cm/)". R&D program of the Madrid Region.
+</div>
+<div style="text-align: left" markdown="1">
+- [![RTI2018-095255-B-I00, project "MASSIVE"](../../assets/img/icons/newpprj_wiz.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](#) 2019-2022. RTI2018-095255-B-I00, project "MASSIVE". The Spanish Ministry of Science.
+</div>
+<div style="text-align: left" markdown="1">
+- [![TIN2014-52129-R, project "Flexor"](../../assets/img/icons/newpprj_wiz.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](#) 2015-2018. TIN2014-52129-R, project "Flexor". The Spanish Ministry of Economy.
+</div>
+<div style="text-align: left" markdown="1">
+- [![S2013/ICE-3006, project "SICOMORo"](../../assets/img/icons/newpprj_wiz.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://antares.sip.ucm.es/sicomoro/) 2014-2018. S2013/ICE-3006, project "[SICOMORo](https://antares.sip.ucm.es/sicomoro/)". R&D program of the Madrid Region.
+</div>
+<div style="text-align: left" markdown="1">
+- [![ TIN2011-24139, project "Go-Lite"](../../assets/img/icons/newpprj_wiz.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](#) 2012-2015. TIN2011-24139, project "Go-Lite". The Spanish Ministry of Economy. 
+</div>
 <br>
