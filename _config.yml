@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: jekyll-theme-potato-hacker
 author: "Pablo Gómez-Abajo"
-email: "Pablo.GomezA@uam"
+email: "Pablo.GomezA@uam.es"
 description: A model-based framework for the engineering of language-specific mutation testing tools
 baseurl: "/Wodel-Test" # the subpath of your site, e.g. /blog
 url: "https://gomezabajo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
