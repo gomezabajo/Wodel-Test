@@ -4,12 +4,6 @@ title: Authors & Contributors
 description: About page
 ---
 
-### Authors
-<br >
-The [Wodel-Test](../../) research project was started by the [miso](https://miso.es) research group in October 2017. Since then, the project has been carried out by [Pablo Gómez-Abajo](https://www.gomezabajo.es/), under the supervision of [Esther Guerra](https://www.ii.uam.es/~eguerra) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), and, additionally, during his PhD. studies, of [Mercedes Merayo](http://antares.sip.ucm.es/mercedes/).
-<br>
-
-<br>
 ### Eclipse Plug-ins used
 <br>
 At this point, we would like to thank the developers of the following frameworks, which we have used in order to develop Wodel-Test:
@@ -44,6 +38,11 @@ At this point, we would like to thank the developers of the following frameworks
 <div style="text-align: left" markdown="1">
 - [![emfjson](../../assets/img/icons/plugins.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://emfjson.github.io/projects/jackson/latest/) [emfjson](https://emfjson.github.io/projects/jackson/latest/): The emf-json project is actually an umbrella of projects that aim to provide support for the JSON format, and associated technologies, to the Eclipse Modeling Framework. It is an alternative to the default XML serialization format (XMI) used by default by the Eclipse Modeling Frameworks.
 </div>
+<br>
+
+### Authors
+<br >
+The [Wodel-Test](../../) research project was started by the [miso](https://miso.es) research group in October 2017. Since then, the project has been carried out by [Pablo Gómez-Abajo](https://www.gomezabajo.es/), under the supervision of [Esther Guerra](https://www.ii.uam.es/~eguerra) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), and, additionally, during his PhD. studies, of [Mercedes Merayo](http://antares.sip.ucm.es/mercedes/).
 <br>
 
 ### Current
