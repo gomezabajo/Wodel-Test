@@ -6,7 +6,7 @@ description: About page
 ### Current
 <br>
 <div style="text-align: left" markdown="1">
-[![Pablo Gómez-Abajo](../../assets/img/bios/pablo.png){:style='float: left;margin-right: 20px;margin-top: 4px; height:60px; width:44px;'}](https://www.gomezabajo.es/) Pablo Gómez-Abajo is an Assistant Professor at the Department of Computer Science of the [Universidad Autónoma de Madrid](https://www.uam.es). After around 8 years working in the industry, he returned to Academia and joined the modelling and software engineering research group ([https://miso.es](https://miso.es)) in 2015. Contact him at [Pablo.gomezA@uam.es](mailto:Pablo.gomezA@uam.es), or visit [https://www.gomezabajo.es](https://www.gomezabajo.es).
+[![Pablo Gómez-Abajo](../../assets/img/bios/pablo.png){:style='float: left;margin-right: 20px;margin-top: 4px; height:60px; width:44px;'}](https://www.gomezabajo.es/) Pablo Gómez-Abajo is an Assistant Professor at the Department of Computer Science of the [Universidad Autónoma de Madrid](https://www.uam.es). After around 8 years working in the industry, he returned to Academia and joined the modelling and software engineering research group ([https://miso.es](https://miso.es)) in 2015. Contact him at [Pablo.gomezA@uam.es](mailto:Pablo.GomezA@uam.es), or visit [https://www.gomezabajo.es](https://www.gomezabajo.es).
 </div>
 <br>
 <div style="text-align: left" markdown="1">
