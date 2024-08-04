@@ -71,5 +71,6 @@ At this point, we would like to thank the developers of the following frameworks
 <br>
 We would like to especially thank [Sara Pérez-Soler](https://www.linkedin.com/in/sperezsoler) and  [Pablo C. Cañizares](https://antares.sip.ucm.es/pablo/) for their collaboration in the work of [Wodel-Test for Chatbots](../../dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Chatbots/).
 <br>
-We would also like to especially thank [Faezeh Khorram](https://faezeh-kh.github.io/) for her feedback very useful interaction with both the Wodel tool and the Wodel-Test framework.
+<br>
+We would also like to especially thank [Faezeh Khorram](https://faezeh-kh.github.io/) for her feedback and very useful interactions with both the Wodel tool and the Wodel-Test framework.
 <br>
