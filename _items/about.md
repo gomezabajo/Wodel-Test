@@ -57,7 +57,7 @@ At this point, we would like to thank the developers of the following frameworks
 </div>
 <br>
 <div style="text-align: left" markdown="1">
-[![Juan de Lara](../../assets/img/bios/juan.png){:style='float: left;margin-right: 20px;margin-top: 4px; height:60px; width:44px;'}](http://arantxa.ii.uam.es/~jlara/) Juan de Lara is Full Professor at the Department of Computer Science of the [Universidad Autónoma de Madrid](https://www.uam.es). Together with Esther Guerra, he leads the modelling and software engineering research group ([https://miso.es](https://miso.es)). His research interests are in model-driven engineering and automated software development. Contact her at [Juan.deLara@uam.es](mailto:Juan.deLara@uam.es), or visit [http://arantxa.ii.uam.es/~jlara/](http://arantxa.ii.uam.es/~jlara/).
+[![Juan de Lara](../../assets/img/bios/juan.png){:style='float: left;margin-right: 20px;margin-top: 4px; height:60px; width:44px;'}](http://arantxa.ii.uam.es/~jlara/) Juan de Lara is Full Professor at the Department of Computer Science of the [Universidad Autónoma de Madrid](https://www.uam.es). Together with Esther Guerra, he leads the modelling and software engineering research group ([https://miso.es](https://miso.es)). His research interests are in model-driven engineering and automated software development. Contact him at [Juan.deLara@uam.es](mailto:Juan.deLara@uam.es), or visit [http://arantxa.ii.uam.es/~jlara/](http://arantxa.ii.uam.es/~jlara/).
 </div>
 <br>
 ### Past
