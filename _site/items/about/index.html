@@ -135,6 +135,8 @@
               
                 <li class="nav-item"><a href="/Wodel-Test/items/about/">Authors & Contributors</a></li>
               
+                <li class="nav-item"><a href="/Wodel-Test/items/publications/">Publications & Funding</a></li>
+              
 
               <script>
                 // clean repeated dropdowns and add <li> to their positions
@@ -153,7 +155,7 @@
                     $(dropdownClass).remove();
                     elements.push(dropdownMain)
                 });
-                let priority = [ "Wodel-Test plugins",  "Wodel",  "Wodel-Edu",  "About", ];
+                let priority = [ "Wodel-Test plugins",  "Wodel",  "Publications",  "About", ];
                 elements = elements.concat(...$(".nav-item").remove())
                 priority.map(text => {
                   elements = elements.filter(node => {
@@ -274,7 +276,10 @@ At this point, we would like to thank the developers of the following frameworks
 
 <h3 id="acknowledgements">Acknowledgements</h3>
 <p><br />
-We would like to especially thank <a href="https://www.linkedin.com/in/sperezsoler">Sara Pérez-Soler</a> and  <a href="https://antares.sip.ucm.es/pablo/">Pablo C. Cañizares</a> for their collaboration in the work of <a href="../../dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Chatbots/">Wodel-Test for Chatbots</a>.</p>
+We would like to especially thank <a href="https://www.linkedin.com/in/sperezsoler">Sara Pérez-Soler</a> and  <a href="https://antares.sip.ucm.es/pablo/">Pablo C. Cañizares</a> for their collaboration in the work of <a href="../../dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Chatbots/">Wodel-Test for Chatbots</a>.
+<br />
+We would also like to especially thank <a href="https://faezeh-kh.github.io/">Faezeh Khorram</a> for her feedback very useful interaction with both the Wodel tool and the Wodel-Test framework.
+<br /></p>
 
 
         </div>

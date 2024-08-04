@@ -135,6 +135,8 @@
               
                 <li class="nav-item"><a href="/Wodel-Test/items/about/">Authors & Contributors</a></li>
               
+                <li class="nav-item"><a href="/Wodel-Test/items/publications/">Publications & Funding</a></li>
+              
 
               <script>
                 // clean repeated dropdowns and add <li> to their positions
@@ -153,7 +155,7 @@
                     $(dropdownClass).remove();
                     elements.push(dropdownMain)
                 });
-                let priority = [ "Wodel-Test plugins",  "Wodel",  "Wodel-Edu",  "About", ];
+                let priority = [ "Wodel-Test plugins",  "Wodel",  "Publications",  "About", ];
                 elements = elements.concat(...$(".nav-item").remove())
                 priority.map(text => {
                   elements = elements.filter(node => {
