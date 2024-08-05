@@ -4,7 +4,7 @@
 	  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-left">
 {% for item in site.menus.header %}
-{% if page.title == item.title %}
+{% if {page.title} == {item.title} %}
   <li class="menu-item-{{ loop.index }}">
     <a href="{{ item.url }}" title="{{ item.alt }}">{{ item.content }}</a>
     {% if item.children %}
