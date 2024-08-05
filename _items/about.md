@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Authors & Contributors
+subtitle: Eclipse plug-ins used
 description: About page
 ---
 
-### Eclipse Plug-ins used
-<br>
 At this point, we would like to thank the developers of the following frameworks, which we have used in order to develop Wodel-Test:
 
 <div style="text-align: left" markdown="1">

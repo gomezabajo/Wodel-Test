@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Publications & Funding
+subtitle: Related publications
 description: Publications page
 ---
 
-### Related publications
-<br>
 <div style="text-align: left" markdown="1">
 - [![Mutation testing for task-oriented chatbots](../../assets/img/icons/pdfIcon.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://dl.acm.org/doi/10.1145/3661167.3661220) Gómez-Abajo, P., Pérez-Soler, S., Cañizares, P. C., Guerra, E., de Lara, J., 2024. [Mutation testing for task-oriented chatbots](https://dl.acm.org/doi/10.1145/3661167.3661220). In ACM 28th International Conference on Evaluation and Assessment in Software Engineering 2024 (EASE). Salerno.
 </div>

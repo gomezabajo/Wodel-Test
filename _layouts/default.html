@@ -24,10 +24,10 @@
       {% include header.html %}
     </section>
     <section class="content">
-      <div class="row">
+      <div class="row" >
         <div class="col-md-8 col-md-offset-1 content-div">
           <div class="page-separator visible-md visible-lg visible-xl">
-            <h1 class="h1-strip" style="padding-bottom:8em; margin-bottom: 0;"></h1>
+            <h1 class="h1-strip" style="padding-bottom:3em; margin-bottom: 0;"></h1>
           </div>
           <div class="page-separator visible-sm">
             <h1 class="h1-strip" style="padding-bottom:3em; margin-bottom: 0;"></h1>
@@ -39,13 +39,13 @@
           {{ content }}
         </div>
         <div class="col-md-2">
-          <div class="pane-separator visible-md visible-lg visible-xl" style="margin-bottom:30em;"></div>
+          <div class="pane-separator visible-md visible-lg visible-xl" style="margin-bottom:12em;"></div>
           <div class="right-pane">
             {% if site.avatar == true %}
             <div class="avatar">
               <center>
                 {% if site.avatar_image != null %}
-                <img src="{{ site.avatar_image | prepend: '/' | prepend: site.baseurl }}" alt="me" class="avatar-image">
+                <a href="{{ site.avatar_url }}"><img src="{{ site.avatar_image | prepend: '/' | prepend: site.baseurl }}" alt="me" class="avatar-image"></a>
                 {% endif %}
                 {% if site.avatar_description != null %}
                 <p style="margin-top: 0.5em;" class="avatar-description">{{site.avatar_description}}</p>
