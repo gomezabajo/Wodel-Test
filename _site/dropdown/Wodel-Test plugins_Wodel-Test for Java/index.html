@@ -135,6 +135,8 @@
               
                 <li class="nav-item"><a href="/Wodel-Test/items/publications/">Publications & Funding</a></li>
               
+                <li class="nav-item"><a href="https://github.com/gomezabajo/Wodel-Test/wiki">Wodel-Test tutorial</a></li>
+              
                 <li class="nav-item"><a href="https://gomezabajo.github.io/Wodel/">Wodel</a></li>
               
 
@@ -155,7 +157,7 @@
                     $(dropdownClass).remove();
                     elements.push(dropdownMain)
                 });
-                let priority = [ "Wodel-Test plugins",  "Authors & Contributors",  "Publications & Funding",  "Wodel", ];
+                let priority = [ "Wodel-Test plugins",  "Wodel-Test tutorial",  "Authors & Contributors",  "Publications & Funding",  "Wodel", ];
                 elements = elements.concat(...$(".nav-item").remove())
                 priority.map(text => {
                   elements = elements.filter(node => {
