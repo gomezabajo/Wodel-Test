@@ -40,7 +40,7 @@ theme_switch: on         # Show color switch (on | off)
 blog: off                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/wodeltest.png"
-avatar_url: "https://github.com/gomezabajo/Wodel"
+avatar_url: "https://github.com/gomezabajo/Wodel-Test"
 avatar_description: "./Wodel-Test"
 highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
