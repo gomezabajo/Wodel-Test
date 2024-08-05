@@ -1,177 +1,175 @@
----
-  header:
-    - title: ./Wodel-Test for Java
-      section: Java
-      url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-Java
-      content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: githubJava
-      alt: View on GitHub
-    - title: ./Wodel-Test for Java
-      section: Java
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/java
-      content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: updatesiteJava
-      alt: Update site
-    - title: ./Wodel-Test for Java
-      section: Java
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testJava.zip
-      content: "<img src='../../assets/img/icons/wodelZip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: zipJava
-      alt: Wodel project .zip - Java meta-model mutation operators
-    - title: ./Wodel-Test for Java
-      section: Java
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/java.ecore
-      content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: ecoreJava
-      alt: Java ecore meta-model
-    - title: ./Wodel-Test for Java
-      section: Java
-      url: https://www.dropbox.com/scl/fi/glqugss2fq6z2hnq93uub/eclipse.zip?rlkey=3xcjwkka02p550r9tkj76sbml&dl=0
-      content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: mutJava
-      alt: Standalone Eclipse + Wodel-Test for Java MuT tool
-    - title: ./Wodel-Test for Java
-      section: Java
-      url: https://github.com/gomezabajo/Wodel/zipball/Wodel-Test-for-Java
-      content: "<img src='../../assets/img/icons/zip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: zipballJava
-      alt: Repository .zip
-    - title: ./Wodel-Test for Java
-      section: Java
-      url: https://github.com/gomezabajo/Wodel/tarball/Wodel-Test-for-Java
-      content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: targzJava
-      alt: Repository .tar.gz
-    - title: ./Wodel-Test for ATL
-      section: ATL
-      url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-ATL
-      content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: githubATL
-      alt: View on GitHub
-    - title: ./Wodel-Test for ATL
-      section: ATL
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/atl
-      content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: updatesiteATL
-      alt: Update site
-    - title: ./Wodel-Test for ATL
-      section: ATL
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testATL.zip
-      content: "<img src='../../assets/img/icons/wodelZip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: zipATL
-      alt: Wodel project .zip - ATL meta-model mutation operators
-    - title: ./Wodel-Test for ATL
-      section: ATL
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/ATL.ecore
-      content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: ecoreATL
-      alt: ATL ecore meta-model
-    - title: ./Wodel-Test for ATL
-      section: ATL
-      url: https://www.dropbox.com/s/kzbryl115py54g5/eclipse.zip?dl=0
-      content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: mutATL
-      alt: Standalone Eclipse + Wodel-Test for ATL MuT tool
-    - title: ./Wodel-Test for ATL
-      section: ATL
-      url: https://github.com/gomezabajo/Wodel/zipball/Wodel-Test-for-ATL
-      content: "<img src='../../assets/img/icons/zip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: zipballATL
-      alt: Repository .zip
-    - title: ./Wodel-Test for ATL
-      section: ATL
-      url: https://github.com/gomezabajo/Wodel/tarball/Wodel-Test-for-ATL
-      content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: targzATL
-      alt: Repository .tar.gz
-    - title: ./Wodel-Test for Finite Automata
-      section: FA
-      url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-FA
-      content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: githubFA
-      alt: View on GitHub
-    - title: ./Wodel-Test for Finite Automata
-      section: FA
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/fa
-      content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: updatesiteFA
-      alt: Update site
-    - title: ./Wodel-Test for Finite Automata
-      section: FA
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testFA.zip
-      content: "<img src='../../assets/img/icons/wodelZip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: zipFA
-      alt: Wodel project .zip - Finite Automata meta-model mutation operators
-    - title: ./Wodel-Test for Finite Automata
-      section: FA
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/DFAAutomaton.ecore
-      content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: ecoreFA
-      alt: Finite Automata ecore meta-model
-    - title: ./Wodel-Test for Finite Automata
-      section: FA
-      url: https://www.dropbox.com/scl/fi/qvx4y2h9chc13vt7m22j8/eclipse.zip?rlkey=eba6k6qores7o4zwhew2rvvxa&dl=0
-      content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: mutFA
-      alt: Standalone Eclipse + Wodel-Test for Finite Automata MuT tool
-    - title: ./Wodel-Test for Finite Automata
-      section: FA
-      url: https://github.com/gomezabajo/Wodel/zipball/Wodel-Test-for-FA
-      content: "<img src='../../assets/img/icons/zip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: zipballFA
-      alt: Repository .zip
-    - title: ./Wodel-Test for Finite Automata
-      section: FA
-      url: https://github.com/gomezabajo/Wodel/tarball/Wodel-Test-for-FA
-      content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: targzFA
-      alt: Repository .tar.gz
-    - title: ./Wodel-Test for Chatbots
-      section: Chatbots
-      url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-Conga
-      content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: githubChatbots
-      alt: View on GitHub
-    - title: ./Wodel-Test for Chatbots
-      section: Chatbots
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/conga
-      content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: updatesiteChatbots
-      alt: Update site
-    - title: ./Wodel-Test for Chatbots
-      section: Chatbots
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testChatbots.zip
-      content: "<img src='../../assets/img/icons/wodelZip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: zipChatbots
-      alt: Wodel project .zip - Chatbots meta-model mutation operators
-    - title: ./Wodel-Test for Chatbots
-      section: Chatbots
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/BotGenerator.ecore
-      content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: ecoreChatbots
-      alt: Conga chatbots ecore meta-model
-    - title: ./Wodel-Test for Chatbots
-      section: Chatbots
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/Annotation.ecore
-      content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: ecoreAnnotation
-      alt: Chatbots annotation ecore meta-model
-    - title: ./Wodel-Test for Chatbots
-      section: Chatbots
-      url: https://www.dropbox.com/s/bvoj3ouira8wfuq/eclipse.zip?dl=0
-      content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: mutChatbots
-      alt: Standalone Eclipse + Wodel-Test for Chatbots MuT tool
-    - title: ./Wodel-Test for Chatbots
-      section: Chatbots
-      url: https://github.com/gomezabajo/Wodel/zipball/Wodel-Test-for-Conga
-      content: "<img src='../../assets/img/icons/zip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: zipballChatbots
-      alt: Repository .zip
-    - title: ./Wodel-Test for Chatbots
-      section: Chatbots
-      url: https://github.com/gomezabajo/Wodel/tarball/Wodel-Test-for-Conga
-      content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
-      identifier: targzChatbots
-      alt: Repository .tar.gz
----
+header:
+  - title: ./Wodel-Test for Java
+    section: Java
+    url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-Java
+    content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: githubJava
+    alt: View on GitHub
+  - title: ./Wodel-Test for Java
+    section: Java
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/java
+    content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: updatesiteJava
+    alt: Update site
+  - title: ./Wodel-Test for Java
+    section: Java
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testJava.zip
+    content: "<img src='../../assets/img/icons/wodelZip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: zipJava
+    alt: Wodel project .zip - Java meta-model mutation operators
+  - title: ./Wodel-Test for Java
+    section: Java
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/java.ecore
+    content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: ecoreJava
+    alt: Java ecore meta-model
+  - title: ./Wodel-Test for Java
+    section: Java
+    url: https://www.dropbox.com/scl/fi/glqugss2fq6z2hnq93uub/eclipse.zip?rlkey=3xcjwkka02p550r9tkj76sbml&dl=0
+    content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: mutJava
+    alt: Standalone Eclipse + Wodel-Test for Java MuT tool
+  - title: ./Wodel-Test for Java
+    section: Java
+    url: https://github.com/gomezabajo/Wodel/zipball/Wodel-Test-for-Java
+    content: "<img src='../../assets/img/icons/zip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: zipballJava
+    alt: Repository .zip
+  - title: ./Wodel-Test for Java
+    section: Java
+    url: https://github.com/gomezabajo/Wodel/tarball/Wodel-Test-for-Java
+    content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: targzJava
+    alt: Repository .tar.gz
+  - title: ./Wodel-Test for ATL
+    section: ATL
+    url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-ATL
+    content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: githubATL
+    alt: View on GitHub
+  - title: ./Wodel-Test for ATL
+    section: ATL
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/atl
+    content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: updatesiteATL
+    alt: Update site
+  - title: ./Wodel-Test for ATL
+    section: ATL
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testATL.zip
+    content: "<img src='../../assets/img/icons/wodelZip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: zipATL
+    alt: Wodel project .zip - ATL meta-model mutation operators
+  - title: ./Wodel-Test for ATL
+    section: ATL
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/ATL.ecore
+    content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: ecoreATL
+    alt: ATL ecore meta-model
+  - title: ./Wodel-Test for ATL
+    section: ATL
+    url: https://www.dropbox.com/s/kzbryl115py54g5/eclipse.zip?dl=0
+    content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: mutATL
+    alt: Standalone Eclipse + Wodel-Test for ATL MuT tool
+  - title: ./Wodel-Test for ATL
+    section: ATL
+    url: https://github.com/gomezabajo/Wodel/zipball/Wodel-Test-for-ATL
+    content: "<img src='../../assets/img/icons/zip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: zipballATL
+    alt: Repository .zip
+  - title: ./Wodel-Test for ATL
+    section: ATL
+    url: https://github.com/gomezabajo/Wodel/tarball/Wodel-Test-for-ATL
+    content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: targzATL
+    alt: Repository .tar.gz
+  - title: ./Wodel-Test for Finite Automata
+    section: FA
+    url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-FA
+    content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: githubFA
+    alt: View on GitHub
+  - title: ./Wodel-Test for Finite Automata
+    section: FA
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/fa
+    content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: updatesiteFA
+    alt: Update site
+  - title: ./Wodel-Test for Finite Automata
+    section: FA
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testFA.zip
+    content: "<img src='../../assets/img/icons/wodelZip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: zipFA
+    alt: Wodel project .zip - Finite Automata meta-model mutation operators
+  - title: ./Wodel-Test for Finite Automata
+    section: FA
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/DFAAutomaton.ecore
+    content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: ecoreFA
+    alt: Finite Automata ecore meta-model
+  - title: ./Wodel-Test for Finite Automata
+    section: FA
+    url: https://www.dropbox.com/scl/fi/qvx4y2h9chc13vt7m22j8/eclipse.zip?rlkey=eba6k6qores7o4zwhew2rvvxa&dl=0
+    content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: mutFA
+    alt: Standalone Eclipse + Wodel-Test for Finite Automata MuT tool
+  - title: ./Wodel-Test for Finite Automata
+    section: FA
+    url: https://github.com/gomezabajo/Wodel/zipball/Wodel-Test-for-FA
+    content: "<img src='../../assets/img/icons/zip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: zipballFA
+    alt: Repository .zip
+  - title: ./Wodel-Test for Finite Automata
+    section: FA
+    url: https://github.com/gomezabajo/Wodel/tarball/Wodel-Test-for-FA
+    content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: targzFA
+    alt: Repository .tar.gz
+  - title: ./Wodel-Test for Chatbots
+    section: Chatbots
+    url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-Conga
+    content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: githubChatbots
+    alt: View on GitHub
+  - title: ./Wodel-Test for Chatbots
+    section: Chatbots
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/conga
+    content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: updatesiteChatbots
+    alt: Update site
+  - title: ./Wodel-Test for Chatbots
+    section: Chatbots
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testChatbots.zip
+    content: "<img src='../../assets/img/icons/wodelZip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: zipChatbots
+    alt: Wodel project .zip - Chatbots meta-model mutation operators
+  - title: ./Wodel-Test for Chatbots
+    section: Chatbots
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/BotGenerator.ecore
+    content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: ecoreChatbots
+    alt: Conga chatbots ecore meta-model
+  - title: ./Wodel-Test for Chatbots
+    section: Chatbots
+    url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/Annotation.ecore
+    content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: ecoreAnnotation
+    alt: Chatbots annotation ecore meta-model
+  - title: ./Wodel-Test for Chatbots
+    section: Chatbots
+    url: https://www.dropbox.com/s/bvoj3ouira8wfuq/eclipse.zip?dl=0
+    content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: mutChatbots
+    alt: Standalone Eclipse + Wodel-Test for Chatbots MuT tool
+  - title: ./Wodel-Test for Chatbots
+    section: Chatbots
+    url: https://github.com/gomezabajo/Wodel/zipball/Wodel-Test-for-Conga
+    content: "<img src='../../assets/img/icons/zip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: zipballChatbots
+    alt: Repository .zip
+  - title: ./Wodel-Test for Chatbots
+    section: Chatbots
+    url: https://github.com/gomezabajo/Wodel/tarball/Wodel-Test-for-Conga
+    content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+    identifier: targzChatbots
+    alt: Repository .tar.gz
