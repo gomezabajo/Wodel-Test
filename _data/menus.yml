@@ -1,36 +1,43 @@
 ---
   header:
-    - title: "./Wodel-Test for Java"
+    - title: ./Wodel-Test for Java
+      section: Java
       url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-Java
       content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: githubJava
       alt: View on GitHub
-    - title: "./Wodel-Test for Java"
+    - title: ./Wodel-Test for Java
+      section: Java
       url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/java
       content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: updatesiteJava
       alt: Update site
-    - title: "./Wodel-Test for Java"
+    - title: ./Wodel-Test for Java
+      section: Java
       url: https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testJava.zip
       content: "<img src='../../assets/img/icons/wodelZip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: zipJava
       alt: Wodel project .zip - Java meta-model mutation operators
-    - title: "./Wodel-Test for Java"
+    - title: ./Wodel-Test for Java
+      section: Java
       url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/java.ecore
       content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: ecoreJava
       alt: Java ecore meta-model
-    - title: "./Wodel-Test for Java"
+    - title: ./Wodel-Test for Java
+      section: Java
       url: https://www.dropbox.com/scl/fi/glqugss2fq6z2hnq93uub/eclipse.zip?rlkey=3xcjwkka02p550r9tkj76sbml&dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutJava
       alt: Standalone Eclipse + Wodel-Test for Java MuT tool
     - title: ./Wodel-Test for Java
+      section: Java
       url: https://github.com/gomezabajo/Wodel/zipball/Wodel-Test-for-Java
       content: "<img src='../../assets/img/icons/zip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: zipballJava
       alt: Repository .zip
     - title: ./Wodel-Test for Java
+      section: Java
       url: https://github.com/gomezabajo/Wodel/tarball/Wodel-Test-for-Java
       content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: targzJava

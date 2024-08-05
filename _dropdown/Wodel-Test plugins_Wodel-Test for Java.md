@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "./Wodel-Test for Java"
+title: ./Wodel-Test for Java
+section: Java
 subtitle: A mutation testing tool for Java generated via Wodel-Test
 description: A mutation testing tool for Java generated via Wodel-Test
 dropdown: "Wodel-Test plugins"
