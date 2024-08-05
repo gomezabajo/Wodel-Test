@@ -70,8 +70,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-gist:
-  noscript: false
-
 plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-menus
