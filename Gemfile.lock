@@ -93,7 +93,7 @@ DEPENDENCIES
   json (~> 2.7)
   kramdown-parser-gfm
   rake (~> 13)
-  wdm (~> 0.2.0)
+  wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
