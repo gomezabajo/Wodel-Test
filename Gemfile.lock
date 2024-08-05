@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     jekyll-theme-potato-hacker (1.0.5)
+      jekyll-menus (~> 0.6.1)
 
 GEM
   remote: https://rubygems.org/
