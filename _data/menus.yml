@@ -35,7 +35,7 @@
       content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: targzJava
       alt: Repository .tar.gz
-    - title: ./Wodel-Test for ATL
+    - title: "./Wodel-Test for ATL"
       url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-ATL
       content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: githubATL
