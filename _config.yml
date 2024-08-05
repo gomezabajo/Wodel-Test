@@ -70,5 +70,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+gist:
+  noscript: false
+
 plugins:
   - jekyll-menus
