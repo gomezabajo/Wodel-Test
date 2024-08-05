@@ -16,6 +16,7 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.0-x64-mingw-ucrt)
+    ffi (1.17.0-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (1.14.5)
@@ -92,7 +93,7 @@ DEPENDENCIES
   json (~> 2.7)
   kramdown-parser-gfm
   rake (~> 13)
-  wdm (>= 0.1.0)
+  wdm (~> 0.2.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
