@@ -4,6 +4,8 @@
 	  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-left">
 {% for item in site.menus.header %}
+{% if page.section != null %}
+{% if item.section != null %}
 {% if page.section == item.section %}
   <li class="menu-item-{{ loop.index }}">
     <a href="{{ item.url }}" title="{{ item.alt }}">{{ item.content }}</a>
@@ -17,6 +19,8 @@
       </ul>
     {% endif %}
   </li>
+{% endif %}
+{% endif %}
 {% endif %}
 {% endfor %}
 </ul>
