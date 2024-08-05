@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/forestryio/jekyll-menus.git
+  revision: 288acfacfaa14a94fbfd6738b10f9311da3a436c
+  specs:
+    jekyll-menus (0.6.1)
+      jekyll (>= 3.6, < 5.0)
+
 PATH
   remote: .
   specs:
@@ -39,8 +46,6 @@ GEM
       webrick (>= 1.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-menus (0.6.1)
-      jekyll (>= 3.6, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.8.0)
@@ -87,7 +92,7 @@ DEPENDENCIES
   bundler (~> 2.5.4)
   jekyll (~> 3)
   jekyll-feed (~> 0.12)
-  jekyll-menus
+  jekyll-menus!
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-theme-potato-hacker!
