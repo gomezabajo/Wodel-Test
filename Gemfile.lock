@@ -79,7 +79,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.5.4)
   jekyll (~> 3)
-  jekyll-menus
+  jekyll-menus (~> 0.6.1)
   jekyll-theme-potato-hacker!
   json (~> 2.7)
   kramdown-parser-gfm
