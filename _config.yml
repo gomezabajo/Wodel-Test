@@ -41,7 +41,7 @@ blog: off                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/wodeltest.png"
 avatar_url: "https://github.com/gomezabajo/Wodel"
-avatar_description: "A model-based framework for the engineering of language-specific mutation testing tools"
+avatar_description: "./Wodel-Test"
 highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
