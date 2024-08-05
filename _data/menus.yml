@@ -158,6 +158,12 @@
       alt: Chatbots annotation ecore meta-model
     - title: ./Wodel-Test for Chatbots
       section: Chatbots
+      url: https://zenodo.org/records/10938786
+      content: "<img src='../../assets/img/icons/zenodo.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+      identifier: zenodoChatbots
+      alt: Dataset
+    - title: ./Wodel-Test for Chatbots
+      section: Chatbots
       url: https://www.dropbox.com/s/bvoj3ouira8wfuq/eclipse.zip?dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutChatbots
