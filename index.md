@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ./Wodel-Test
-description: A model-based framework for the engineering of language-specific mutation testing tools
+subtitle: A model-based framework for the engineering of language-specific mutation testing tools
 ---
 ### A model-based framework for the engineering of language-specific mutation testing tools
 **Wodel-Test** is built on top of **Wodel**, a domain-specific language to define and execute model mutations.
