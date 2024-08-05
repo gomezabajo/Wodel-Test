@@ -5,12 +5,12 @@
             <ul class="nav navbar-nav navbar-left">
 {% for item in site.data.menus.header %}
 {% if page.section == item.section %}
-  <li class="nav-item-{{ loop.index }}">
+  <li class="nav-item">
     <a href="{{ item.url }}" title="{{ item.alt }}">{{ item.content }}</a>
     {% if item.children %}
       <ul class="sub-menu">
       {% for item in item.children %}
-        <li class="nav-item-{{ loop.index }}">
+        <li class="nav-item">
           <a href="{{ item.url }}" title="{{ item.alt }}">{{ item.content }}</a>
         </li>
       {% endfor %}
