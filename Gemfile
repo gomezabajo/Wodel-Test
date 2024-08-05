@@ -4,7 +4,7 @@ gem 'kramdown-parser-gfm'
 source 'https://rubygems.org'
 gemspec
 
-gem 'jekyll', '~> 4.3.3'
+gem 'jekyll', '~> 3'
 gem 'json', '~> 2.7'
 gem 'webrick', '~> 1.8'
 

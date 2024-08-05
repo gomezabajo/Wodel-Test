@@ -13,6 +13,6 @@ Gem::Specification.new do |spec|
   end
 
   spec.add_development_dependency 'bundler', '~> 2.5.4'
-  spec.add_development_dependency 'jekyll', '~> 4.3.3'
+  spec.add_development_dependency 'jekyll', '~> 3'
   spec.add_development_dependency 'rake', '~> 13'
 end
