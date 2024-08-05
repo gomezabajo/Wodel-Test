@@ -8,8 +8,6 @@ gem 'jekyll', '~> 3'
 gem 'json', '~> 2.7'
 gem 'webrick', '~> 1.8'
 
-gem 'wdm', '~> 0.2.0'
-
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.12'
   gem 'jekyll-sitemap'
