@@ -15,5 +15,4 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'bundler', '~> 2.5.4'
   spec.add_development_dependency 'jekyll', '~> 3'
   spec.add_development_dependency 'rake', '~> 13'
-  spec.add_runtime_dependency('jekyll-menus', '~> 0.6.1')
 end
