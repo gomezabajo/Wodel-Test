@@ -12,4 +12,4 @@ priority: 1
 <br>
 <h4> The generated MuT tool for chatbots in action:</h4>
 <br>
-[![Wodel-Test for Chatbots MuT tool in action](https://github.com/gomezabajo/MuTChatbots/raw/main/evaluation/chatbots/Rasa_256644/captures/auto.png)](https://youtu.be/pq4nzPeRTD0?si=Q1ODGbTW962DwwGh)
+[![Wodel-Test for Chatbots MuT tool in action](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodeltest-for-chatbots.png)](https://youtu.be/nFGHD92k834)
