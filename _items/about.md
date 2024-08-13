@@ -61,7 +61,7 @@ The [Wodel-Test](../../) research project was started by the [miso](https://miso
 ### Past
 <br>
 <div style="text-align: left" markdown="1">
-[![Mercedes Merayo](../../assets/img/bios/mercedes.png){:style='float: left;margin-right: 20px;margin-top: 4px; height:60px; width:46px;'}](https://antares.sip.ucm.es/mercedes/) Mercedes Merayo holds an Associate Professor position in the Computer Systems and Computation Department of the [Universidad Complutense de Madrid](https://www.ucm.es). She leads, together with Luis Llana the [Desgin and Testing of Reliable Systems research group](https://antares.sip.ucm.es/DTRS/). Her current research interests include model based testing, distributed testing, asynchronous testing, mutation testing, metamorphic testing and timed extensions in formal testing. Contact her at [mgmerayo@fdi.ucm.es](mgmerayo@fdi.ucm.es), or visit [http://antares.sip.ucm.es/mercedes/](http://antares.sip.ucm.es/mercedes/).
+[![Mercedes Merayo](../../assets/img/bios/mercedes.png){:style='float: left;margin-right: 20px;margin-top: 4px; height:60px; width:46px;'}](https://antares.sip.ucm.es/mercedes/) Mercedes Merayo holds an Associate Professor position in the Computer Systems and Computation Department of the [Universidad Complutense de Madrid](https://www.ucm.es). She leads, together with Luis Llana the [Design and Testing of Reliable Systems research group](https://antares.sip.ucm.es/DTRS/). Her current research interests include model based testing, distributed testing, asynchronous testing, mutation testing, metamorphic testing and timed extensions in formal testing. Contact her at [mgmerayo@fdi.ucm.es](mgmerayo@fdi.ucm.es), or visit [http://antares.sip.ucm.es/mercedes/](http://antares.sip.ucm.es/mercedes/).
 </div>
 <br>
 
