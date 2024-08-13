@@ -8,4 +8,9 @@ dropdown: "Wodel-Test plugins"
 priority: 3
 ---
 
+<br>
+<br>
+<h4> The generated MuT tool for ATL in action:</h4>
+<br>
+[![Wodel-Test for ATL MuT tool in action](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodeltest-for-atl.png)](https://youtu.be/TeV2BClqmiw)
 
