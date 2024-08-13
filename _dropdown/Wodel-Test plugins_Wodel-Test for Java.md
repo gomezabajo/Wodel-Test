@@ -29,7 +29,7 @@ priority: 4
 <br>
 <br>
 <div style="text-align: left" markdown="1">
-We tested the [Wodel-Test for Java MuT tool](https://gomezabajo.github.io/Wodel-Test/dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Java/) with several Java projects and noticed that for some of them that include bad design issues both in the system under test and in the test suite provided, some of the generated mutants can enter into endless loops. To overcome such inconvenience, we have included timeouts in the test suite execution. You can check this using the Wodel-Test for Java MuT tool with this reduced version of an old release of the [org.apache.commons.cli](https://github.com/rjust/defects4j/tree/master/framework/projects/Cli) Java project. This buggy Java project is included in a common framework used to validate MuT tools for Java known as the [defects4j](https://github.com/rjust/defects4j) project.
+We tested the [Wodel-Test for Java MuT tool](https://gomezabajo.github.io/Wodel-Test/dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Java/) with several Java projects and noticed that for some of them that include bad design issues both in the system under test and in the test suite provided, some of the generated mutants can enter into endless loops. To overcome such inconvenience, we have included timeout limits in the test suite execution. You can check this using the Wodel-Test for Java MuT tool with this reduced version of an old release of the [org.apache.commons.cli](https://github.com/rjust/defects4j/tree/master/framework/projects/Cli) Java project. This buggy Java project is included in a common framework used to validate MuT tools for Java known as the [defects4j](https://github.com/rjust/defects4j) project.
 </div>
 <br>
 <br>
