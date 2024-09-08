@@ -38,6 +38,13 @@ The generated MuT tools parse the programs representing them as models conforman
 </div>
 <br>
 <br>
+#### [./Wodel-Test for Logic Circuits](dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Logic%20Circuits/)
+
+<div style="text-align: left" markdown="1">
+[![View on GitHub](assets/img/icons/GitHub-Mark.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-LC)[![Update-site](assets/img/icons/category_obj.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/lc)[![Wodel project .zip](assets/img/icons/wodelZip.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testLC.zip)[![Logic Circuits ecore meta-model](assets/img/icons/NewEcore.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/LogicCircuit.ecore)[![Standalone Eclipse + Wodel-Test for Logic Circuits MuT tool](assets/img/icons/eclipse32.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://www.dropbox.com/scl/fi/r9ehvplaoa6nqm0tmoebf/eclipse.zip?rlkey=rxwixno049rqgs7qw05ohnh4o&st=ulybolyn&dl=0)
+</div>
+<br>
+<br>
 #### [./Wodel-Test for Chatbots](dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Chatbots/)
 
 <div style="text-align: left" markdown="1">
