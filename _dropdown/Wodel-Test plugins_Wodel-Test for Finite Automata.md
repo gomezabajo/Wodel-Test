@@ -5,7 +5,7 @@ section: FA
 subtitle: A mutation testing tool for Finite Automata generated via Wodel-Test
 description: A mutation testing tool for Finite Automata generated via Wodel-Test
 dropdown: "Wodel-Test plugins"
-priority: 2
+priority: 3
 ---
 
 <br>

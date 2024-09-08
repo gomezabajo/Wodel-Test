@@ -5,7 +5,7 @@ section: LC
 subtitle: A mutation testing tool for Logic Circuits generated via Wodel-Test
 description: A mutation testing tool for Logic Circuits generated via Wodel-Test
 dropdown: "Wodel-Test plugins"
-priority: 5
+priority: 2
 ---
 
 <br>
