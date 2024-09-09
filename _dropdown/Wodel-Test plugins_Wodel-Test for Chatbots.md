@@ -5,7 +5,7 @@ section: Chatbots
 subtitle: A mutation testing tool for Chatbots generated via Wodel-Test
 description: A mutation testing tool for Chatbots generated via Wodel-Test
 dropdown: "Wodel-Test plugins"
-priority: 2
+priority: 1
 ---
 
 <br>
