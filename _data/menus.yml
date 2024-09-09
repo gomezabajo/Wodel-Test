@@ -1,5 +1,35 @@
 ---
   header:
+    - title: ./Wodel-Test designer
+      section: designer
+      url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-designer
+      content: "<img src='../../assets/img/icons/GitHub-Mark.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+      identifier: githubDesigner
+      alt: View on GitHub
+    - title: ./Wodel-Test designer
+      section: designer
+      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/designer
+      content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+      identifier: updatesiteDesigner
+      alt: Update site
+    - title: ./Wodel-Test designer
+      section: designer
+      url: https://www.dropbox.com/scl/fi/imxrq591vuu8iuvz2ha24/eclipse.zip?rlkey=ux9vch72wehk4n8szn4a1tcu2&st=mq486cbt&dl=0
+      content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+      identifier: mutDesigner
+      alt: Standalone Eclipse + Wodel-Test designer
+    - title: ./Wodel-Test designer
+      section: designer
+      url: https://github.com/gomezabajo/Wodel/zipball/Wodel-Test-designer
+      content: "<img src='../../assets/img/icons/zip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+      identifier: zipballDesigner
+      alt: Repository .zip
+    - title: ./Wodel-Test designer
+      section: designer
+      url: https://github.com/gomezabajo/Wodel/tarball/Wodel-Test-designer
+      content: "<img src='../../assets/img/icons/tar.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+      identifier: targzDesigner
+      alt: Repository .tar.gz
     - title: ./Wodel-Test for Java
       section: Java
       url: https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-Java
