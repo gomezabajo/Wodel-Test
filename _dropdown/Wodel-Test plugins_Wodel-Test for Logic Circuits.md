@@ -12,6 +12,6 @@ priority: 2
 <br>
 <h4>The generated MuT tool for logic circuits in action:</h4>
 <br>
-[![Wodel-Test for LC MuT tool in action](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodeltest-lc.png)](https://youtu.be/xMhsinETung)
+[![Wodel-Test for LC MuT tool in action](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodel-test-lc.png)](https://youtu.be/xMhsinETung)
 
 
