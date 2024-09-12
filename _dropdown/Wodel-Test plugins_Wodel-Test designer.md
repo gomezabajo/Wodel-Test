@@ -13,6 +13,6 @@ priority: 6
 <h4>Wodel-Test designer in action:</h4>
 <br>
 <!---
-[![Wodel-Test for FA MuT tool in action](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodeltest-for-fa.png)](https://youtu.be/9NhFv36BgS8)
+[![Wodel-Test designer in action](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodeltest-designer.png)](https://youtu.be/9NhFv36BgS8)
 -->
 
