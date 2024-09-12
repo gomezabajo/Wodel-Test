@@ -12,6 +12,6 @@ priority: 6
 <br>
 <h4>Wodel-Test designer in action:</h4>
 <br>
-[![Wodel-Test designer in action](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodeltest-designer.png)](https://youtu.be/sB1oh2NFPso)
+[![Wodel-Test designer in action](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodel-test-designer.png)](https://youtu.be/sB1oh2NFPso)
 
 
