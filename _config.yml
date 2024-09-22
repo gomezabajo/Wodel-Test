@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Wodel-Test
-author: "<a href='https://www.gomezabajo.es'>Pablo Gómez-Abajo</a>"
+author: "<a href='https://www.uam.es/uam/inicio'>Universidad Autónoma de Madrid</a>"
 email: "Pablo.GomezA@uam.es"
 description: A model-based framework for the engineering of language-specific mutation testing tools
 baseurl: "/Wodel-Test" # the subpath of your site, e.g. /blog
