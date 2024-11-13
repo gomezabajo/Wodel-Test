@@ -236,7 +236,7 @@
       alt: Dataset
     - title: ./Wodel-Test for Chatbots
       section: Chatbots
-      url: https://www.dropbox.com/s/bvoj3ouira8wfuq/eclipse.zip?dl=0
+      url: https://www.dropbox.com/s/gtf69jkxhh7dxei/eclipse.zip?dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutChatbots
       alt: Standalone Eclipse + Wodel-Test for Chatbots MuT tool
