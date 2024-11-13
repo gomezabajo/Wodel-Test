@@ -182,7 +182,7 @@
       alt: Logic Circuit ecore meta-model
     - title: ./Wodel-Test for Logic Circuit
       section: LC
-      url: https://www.dropbox.com/scl/fi/r9ehvplaoa6nqm0tmoebf/eclipse.zip?rlkey=rxwixno049rqgs7qw05ohnh4o&st=ulybolyn&dl=0
+      url: https://www.dropbox.com/s/iiqytou06jw1rkz/eclipse.zip?dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutLC
       alt: Standalone Eclipse + Wodel-Test for Logic Circuits MuT tool
