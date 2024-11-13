@@ -14,7 +14,7 @@
       alt: Update site
     - title: ./Wodel-Test designer
       section: designer
-      url: https://www.dropbox.com/scl/fi/imxrq591vuu8iuvz2ha24/eclipse.zip?rlkey=ux9vch72wehk4n8szn4a1tcu2&st=mq486cbt&dl=0
+      url: https://www.dropbox.com/s/tmtsjanssno06sq/eclipse.zip?dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutDesigner
       alt: Standalone Eclipse + Wodel-Test designer
