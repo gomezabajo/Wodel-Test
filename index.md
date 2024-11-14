@@ -15,7 +15,7 @@ Once the mutation operators are defined, **Wodel-Test** generates a complete Mut
 The generated MuT tools parse the programs representing them as models conformant to the language meta-models, apply the mutation operators, and evaluate the test suites on the generated mutants, offering a rich collection of metrics about the MuT process.
 
 <br>
-#### [./Wodel-Test designer](dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20designer/)
+#### [./Wodel-Test designer](dropdown/Wodel-Test%20plugins_Wodel-Test%20designer/)
 
 <div style="text-align: left" markdown="1">
 [![View on GitHub](assets/img/icons/GitHub-Mark.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://github.com/gomezabajo/Wodel/tree/Wodel-Test-designer)[![Update-site](assets/img/icons/category_obj.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/designer)[![Standalone Eclipse + Wodel-Test designer](assets/img/icons/eclipse32.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://www.dropbox.com/scl/fi/imxrq591vuu8iuvz2ha24/eclipse.zip?rlkey=ux9vch72wehk4n8szn4a1tcu2&st=mq486cbt&dl=0)
