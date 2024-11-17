@@ -8,7 +8,7 @@
       alt: View on GitHub
     - title: ./Wodel-Test designer
       section: designer
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/designer
+      url: https://gomezabajo.github.io/Wodel/Wodel-Test/designer/update-site
       content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: updatesiteDesigner
       alt: Update site
@@ -38,7 +38,7 @@
       alt: View on GitHub
     - title: ./Wodel-Test for Java
       section: Java
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/java
+      url: https://gomezabajo.github.io/Wodel/Wodel-Test/java/update-site
       content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: updatesiteJava
       alt: Update site
@@ -80,7 +80,7 @@
       alt: View on GitHub
     - title: ./Wodel-Test for ATL
       section: ATL
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/atl
+      url: https://gomezabajo.github.io/Wodel/Wodel-Test/atl/update-site
       content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: updatesiteATL
       alt: Update site
@@ -122,7 +122,7 @@
       alt: View on GitHub
     - title: ./Wodel-Test for Finite Automata
       section: FA
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/fa
+      url: https://gomezabajo.github.io/Wodel/Wodel-Test/fa/update-site
       content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: updatesiteFA
       alt: Update site
@@ -164,7 +164,7 @@
       alt: View on GitHub
     - title: ./Wodel-Test for Logic Circuits
       section: LC
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/lc
+      url: https://gomezabajo.github.io/Wodel/Wodel-Test/lc/update-site
       content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: updatesiteLC
       alt: Update site
@@ -206,7 +206,7 @@
       alt: View on GitHub
     - title: ./Wodel-Test for Chatbots
       section: Chatbots
-      url: https://gomezabajo.github.io/Wodel/Wodel-Test/update-site/conga
+      url: https://gomezabajo.github.io/Wodel/Wodel-Test/conga/update-site
       content: "<img src='../../assets/img/icons/category_obj.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: updatesiteChatbots
       alt: Update site
