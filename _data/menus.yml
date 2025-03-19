@@ -56,7 +56,7 @@
       alt: Java ecore meta-model
     - title: ./Wodel-Test for Java
       section: Java
-      url: https://www.dropbox.com/s/92nkbhjhpcy5yxg/eclipse.zip?dl=0
+      url: https://www.dropbox.com/scl/fi/g7pn7enhd93axfhrdhafx/eclipse.zip?rlkey=q7uni28gxf26s3qrutr4nslfw&dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutJava
       alt: Standalone Eclipse + Wodel-Test for Java MuT tool
@@ -98,7 +98,7 @@
       alt: ATL ecore meta-model
     - title: ./Wodel-Test for ATL
       section: ATL
-      url: https://www.dropbox.com/s/t90njqvw71h2vof/eclipse.zip?dl=0
+      url: https://www.dropbox.com/scl/fi/06ptvz1j3vzey5wpwd41u/eclipse.zip?rlkey=99x8xvo7023w91wi81dgtf7c9&dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutATL
       alt: Standalone Eclipse + Wodel-Test for ATL MuT tool
@@ -140,7 +140,7 @@
       alt: Finite Automata ecore meta-model
     - title: ./Wodel-Test for Finite Automata
       section: FA
-      url: https://www.dropbox.com/s/2uspgeq6eacmgd6/eclipse.zip?dl=0
+      url: https://www.dropbox.com/scl/fi/lt3izw39nau9ewx2xk3os/eclipse.zip?rlkey=7ni6t1dtwz3rg80r2dtyeqx0r&dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutFA
       alt: Standalone Eclipse + Wodel-Test for Finite Automata MuT tool
@@ -180,9 +180,9 @@
       content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: ecoreLC
       alt: Logic Circuit ecore meta-model
-    - title: ./Wodel-Test for Logic Circuit
+    - title: ./Wodel-Test for Logic Circuits
       section: LC
-      url: https://www.dropbox.com/s/iiqytou06jw1rkz/eclipse.zip?dl=0
+      url: https://www.dropbox.com/scl/fi/8a19kssxwlceo1sfjlsbs/eclipse.zip?rlkey=gxs40qz0ydyw4s44po2wve2e4&dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutLC
       alt: Standalone Eclipse + Wodel-Test for Logic Circuits MuT tool
