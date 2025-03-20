@@ -14,7 +14,7 @@
       alt: Update site
     - title: ./Wodel-Test designer
       section: designer
-      url: https://www.dropbox.com/s/tmtsjanssno06sq/eclipse.zip?dl=0
+      url: https://www.dropbox.com/scl/fi/d698rghjmord6r2ig4dya/eclipse.zip?rlkey=57qufltl84a396inezs9l65si&dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutDesigner
       alt: Standalone Eclipse + Wodel-Test designer
@@ -236,7 +236,7 @@
       alt: Dataset
     - title: ./Wodel-Test for Chatbots
       section: Chatbots
-      url: https://www.dropbox.com/s/gtf69jkxhh7dxei/eclipse.zip?dl=0
+      url: https://www.dropbox.com/scl/fi/u4s3rbkcb51pbpqbuku3k/eclipse.zip?rlkey=0uc1zgfuho25q7e3clu979dp4&dl=0
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutChatbots
       alt: Standalone Eclipse + Wodel-Test for Chatbots MuT tool
