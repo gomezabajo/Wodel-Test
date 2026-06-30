@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
     f.match(/^(assets|_layouts|_includes|_sass|LICENSE|README)/i)
   end
 
+  spec.add_development_dependency 'jekyll', '~> 4.3.3'
   spec.add_development_dependency 'bundler', '~> 2.5.4'
   spec.add_development_dependency 'rake', '~> 13'
-  spec.add_runtime_dependency 'jekyll', '~> 4.3.3'
 end
