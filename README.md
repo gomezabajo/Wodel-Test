@@ -1,6 +1,6 @@
 <h1 align="center">./Wodel-Test</h1>
 
-<p align="center"><i>A model-based framework for the engineering of language-specific mutation testing tools.</i></p>
+<p align="center"><i>A model-based framework for the engineering of language-specific mutation testing tools</i></p>
 
 <p align="center">
   <a href="https://gomezabajo.github.io/Wodel-Test/"><img src="https://img.shields.io/badge/website-Wodel--Test-2a4d14?style=for-the-badge" alt="Website"></a>
