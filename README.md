@@ -136,7 +136,7 @@ If you use Wodel-Test in academic work, please cite:
 ## Authors and contact
 
 Developed by **Pablo Gómez-Abajo**, **Esther Guerra**, and **Juan de Lara** (with
-**Mercedes G. Merayo**), of the [miso research group](http://www.miso.es/), Universidad
+**Mercedes G. Merayo** during Pablo's PhD. studies), of the [miso research group](http://www.miso.es/), Universidad
 Autónoma de Madrid.
 
 - Email: <Pablo.GomezA@uam.es>
