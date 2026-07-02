@@ -3,9 +3,9 @@
 <p align="center"><i>A model-based framework for the engineering of language-specific mutation testing tools</i></p>
 
 <p align="center">
-  <a href="https://gomezabajo.github.io/Wodel-Test/"><img src="https://img.shields.io/badge/website-Wodel--Test-2a4d14?style=for-the-badge" alt="Website"></a>
-  <a href="https://github.com/gomezabajo/Wodel-Test/blob/main/LICENSE"><img src="https://img.shields.io/github/license/gomezabajo/Wodel-Test?style=for-the-badge" alt="License"></a>
-  <img src="https://img.shields.io/badge/built%20with-Jekyll-cc0000?style=for-the-badge" alt="Built with Jekyll">
+  <a href="https://gomezabajo.github.io/Wodel-Test/"><img src="https://img.shields.io/badge/website-Wodel--Test-2a4d14" alt="Website"></a>
+  <a href="https://github.com/gomezabajo/Wodel-Test/blob/main/LICENSE"><img src="https://img.shields.io/github/license/gomezabajo/Wodel-Test" alt="License"></a>
+  <img src="https://img.shields.io/badge/built%20with-Jekyll-cc0000" alt="Built with Jekyll">
 </p>
 
 <p align="center">
