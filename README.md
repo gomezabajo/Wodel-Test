@@ -57,7 +57,7 @@ from the [live site](https://gomezabajo.github.io/Wodel-Test/).
 
 | Component | Source | Update site |
 |-----------|--------|-------------|
-| **Wodel-Test designer** — define mutation operators and generate MuT tools | [branch](https://github.com/gomezabajo/Wodel/tree/Wodel-Test-designer) | [update-site](https://gomezabajo.github.io/Wodel/Wodel-Test/designer/update-site) |
+| **Wodel-Test designer** — define mutation operators and generate MuT tools | [branch](https://github.com/gomezabajo/Wodel/tree/Wodel-Test-designer) | [update-site](https://gomezabajo.github.io/Wodel/Wodel-Test/designer) |
 
 ### MuT tools generated with Wodel-Test
 
@@ -67,11 +67,38 @@ from the [live site](https://gomezabajo.github.io/Wodel-Test/).
 | **ATL** | [Wodel-Test-for-ATL](https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-ATL) | [update-site](https://gomezabajo.github.io/Wodel/Wodel-Test/atl/update-site) | [testATL.zip](https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testATL.zip) | [ATL.ecore](https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/ATL.ecore) |
 | **Finite Automata** | [Wodel-Test-for-FA](https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-FA) | [update-site](https://gomezabajo.github.io/Wodel/Wodel-Test/fa/update-site) | [testFA.zip](https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testFA.zip) | [DFAAutomaton.ecore](https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/DFAAutomaton.ecore) |
 | **Logic Circuits** | [Wodel-Test-for-LC](https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-LC) | [update-site](https://gomezabajo.github.io/Wodel/Wodel-Test/lc/update-site) | [testLC.zip](https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testLC.zip) | [LogicCircuit.ecore](https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/LogicCircuit.ecore) |
-| **Chatbots** | [Wodel-Test-for-Conga](https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-Conga) | [update-site](https://gomezabajo.github.io/Wodel/Wodel-Test/conga/update-site) | [testBotGenerator.zip](https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testBotGenerator.zip) | [BotGenerator.ecore](https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/BotGenerator.ecore) · [Annotation.ecore](https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/Annotation.ecore) |
+| **Chatbots** | [Wodel-Test-for-Conga](https://github.com/gomezabajo/Wodel/tree/Wodel-Test-for-Conga) | [update-site](https://gomezabajo.github.io/Wodel/Wodel-Test/conga/update-site) | [testConga.zip](https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/testConga.zip) | [BotGenerator.ecore](https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/BotGenerator.ecore) · [Annotation.ecore](https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/Annotation.ecore) |
 
 The Chatbots case study also has an associated dataset on
 [Zenodo](https://zenodo.org/records/10938786).
 
+## Running the website locally
+
+The site is built with [Jekyll](https://jekyllrb.com/) 4.3 on Ruby 3.3.4 (see
+[`.ruby-version`](.ruby-version)), using a customized version of the Potato Hacker theme
+bundled in this repository ([`potato-hacker.gemspec`](potato-hacker.gemspec)).
+
+```bash
+git clone https://github.com/gomezabajo/Wodel-Test.git
+cd Wodel-Test
+bundle install
+bundle exec jekyll serve
+```
+
+The site is then available at `http://localhost:4000/Wodel-Test/`. GitHub Pages builds and
+publishes it automatically from the `main` branch.
+
+## Repository structure
+
+| Path | Contents |
+|------|----------|
+| `index.md`, `blog.md` | Home page (the catalogue) and blog index. |
+| `_dropdown/` | One page per tool: designer, Java, ATL, Finite Automata, Logic Circuits, Chatbots. |
+| `_items/` | Secondary pages: about, publications & funding, wiki, Wodel. |
+| `_layouts/`, `_includes/`, `_sass/`, `assets/` | Theme templates, partials, styles, and static assets. |
+| `_config.yml`, `_data/` | Jekyll configuration and menu definitions. |
+| `designer/`, `java/`, `atl/`, `fa/`, `lc/`, `chatbots/` | Redirect stubs for the per-tool sections. |
+| `zip/` | Bundled downloads. |
 
 ## Documentation
 
@@ -118,8 +145,11 @@ Autónoma de Madrid.
 
 ## Funding
 
-Developed at the Universidad Autónoma de Madrid with the support of Spanish and Madrid-regional
-research funding.
+Wodel-Test has been developed with the support of, among others: project
+"[FORTE](https://antares.sip.ucm.es/forte-cm/)" (P2018/TCS-4314, R&D programme of the Madrid
+Region) and project "MASSIVE" (RTI2018-095255-B-I00, Spanish Ministry of Science). The full
+list of supporting projects is available on the
+[publications & funding page](https://gomezabajo.github.io/Wodel-Test/items/publications/).
 
 ## License
 
