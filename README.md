@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://gomezabajo.github.io/Wodel-Test">
+    <img src="https://gomezabajo.github.io/Wodel/images/wodel-test.png" width="224" height="120" alt="Wodel-Test logo" />
+  </a>
+</p>
 
 <h1 align="center">./Wodel-Test</h1>
 
