@@ -22,14 +22,6 @@ already produced MuT tools for Java, ATL, finite automata, logic circuits and ch
 <span class="section-label">Language-independent mutation testing, generated from models.</span>
 ### Overview
 
-<ul class="cap-list">
-  <li><strong>Language independence</strong>: MuT tools can be generated for any language defined by a meta-model</li>
-  <li><strong>Mutation operators in Wodel</strong>: operators are specified once, at the model level, with the Wodel DSL</li>
-  <li><strong>Complete MuT environments</strong>: each generated tool is a full Eclipse plug-in, distributed via its own update site</li>
-  <li><strong>Model-based execution</strong>: programs are parsed into models conforming to the language meta-model, mutated, and tested</li>
-  <li><strong>Rich metrics</strong>: the generated tools evaluate the test suites on the mutants and report a detailed picture of the MuT process</li>
-</ul>
-
 Mutation testing assesses the quality of a test suite by seeding small, systematic
 faults — mutants — into the program under test and checking whether the tests detect
 them. Building a mutation testing tool for a new language, however, has traditionally
@@ -40,6 +32,15 @@ language and its mutation operators are described as models, the same machinery
 generates a tailored MuT tool for each language: the generated tools parse the programs
 as models, apply the mutation operators, run the test suites on the resulting mutants,
 and offer a rich collection of metrics about the MuT process.
+
+<ul class="cap-list">
+  <li><strong>Language independence</strong>: MuT tools can be generated for any language defined by a meta-model</li>
+  <li><strong>Mutation operators in Wodel</strong>: operators are specified once, at the model level, with the Wodel DSL</li>
+  <li><strong>Complete MuT environments</strong>: each generated tool is a full Eclipse plug-in, distributed via its own update site</li>
+  <li><strong>Model-based execution</strong>: programs are parsed into models conforming to the language meta-model, mutated, and tested</li>
+  <li><strong>Rich metrics</strong>: the generated tools evaluate the test suites on the mutants and report a detailed picture of the MuT process</li>
+</ul>
+
 </div>
 
 <div class="landing-section" markdown="1">
