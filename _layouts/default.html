@@ -1,7 +1,7 @@
 ---
 ---
 <!DOCTYPE html>
-<html>
+<html lang="en-GB">
 {% include head.html %}
 
 <body class="animated fadeIn">
@@ -59,7 +59,7 @@
             {% if site.blog == true %}
             <div class="posts-list">
               <a href="{{ '/blog' | prepend: site.baseurl }}">
-                <h4>Recent Posts:</h4>
+                <h4>Recent posts</h4>
               </a>
               <ul>
                 {% for i in (1..site.recent_posts) %}

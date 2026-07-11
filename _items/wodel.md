@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wodel
-description: Wodel page
+description: The Wodel domain-specific language for model mutation
 redirect_to: https://gomezabajo.github.io/Wodel/
 ---
 

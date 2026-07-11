@@ -16,7 +16,7 @@
 title: Wodel-Test
 author: "<a href='https://www.uam.es/uam/inicio'>Universidad Autónoma de Madrid</a>"
 email: "Pablo.GomezA@uam.es"
-description: A model-based framework for the engineering of language-specific mutation testing tools
+description: A model-based framework for engineering language-specific mutation-testing tools
 baseurl: "/Wodel-Test" # the subpath of your site, e.g. /blog
 url: "https://gomezabajo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
@@ -49,7 +49,7 @@ toolbar_priority:        # Order of the items in the toolbar (except for blog an
   - "Tutorial"  
   - "Authors & Contributors"
   - "Publications & Funding"
-  - "Wodel-Test plugins"
+  - "Wodel-Test plug-ins"
   - "Wodel"
   
 # Collections

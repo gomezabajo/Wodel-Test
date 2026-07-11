@@ -1,5 +1,5 @@
 ---
 layout: blog-index
 title: News
-description: Test page
+description: Wodel-Test news and updates
 ---

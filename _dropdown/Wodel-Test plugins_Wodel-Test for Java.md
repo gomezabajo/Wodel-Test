@@ -2,45 +2,42 @@
 layout: page
 title: ./Wodel-Test for Java
 section: Java
-subtitle: A mutation testing tool for Java generated via Wodel-Test
-description: A mutation testing tool for Java generated via Wodel-Test
-dropdown: "Wodel-Test plugins"
+subtitle: A mutation-testing tool for Java generated with Wodel-Test
+description: A mutation-testing tool for Java generated with Wodel-Test
+dropdown: "Wodel-Test plug-ins"
 priority: 5
 ---
 
 <br>
 <br>
-<h4>The generated MuT tool for Java with jUnit4 in action:</h4>
+<h4>The generated MuT tool for Java with JUnit 4 in operation</h4>
 <br>
-[![Wodel-Test for Java with jUnit4 MuT tool in action](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodeltest-for-java-junit4.png)](https://youtu.be/-7NV2VnSC0Q)
-
-
-<br>
-<br>
-<h4> The generated MuT tool for Java with jUnit5 in action:</h4>
-<br>
-[![Wodel-Test for Java with jUnit5 MuT tool in action](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodeltest-for-java-junit5.png)](https://youtu.be/chjVhp018IQ)
+[![Demonstration of the Wodel-Test MuT tool for Java with JUnit 4](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodeltest-for-java-junit4.png)](https://youtu.be/-7NV2VnSC0Q)
 
 <br>
 <br>
+<h4>The generated MuT tool for Java with JUnit 5 in operation</h4>
+<br>
+[![Demonstration of the Wodel-Test MuT tool for Java with JUnit 5](https://raw.githubusercontent.com/gomezabajo/Wodel/gh-pages/images/wodeltest-for-java-junit5.png)](https://youtu.be/chjVhp018IQ)
+
+<br>
+<br>
 <br>
 
-### Wodel-Test for Java with jUnit3
+### Wodel-Test for Java with JUnit 3
 <br>
 <br>
 <div style="text-align: left" markdown="1">
-We tested the [Wodel-Test for Java MuT tool](https://gomezabajo.github.io/Wodel-Test/dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Java/) with several Java projects and noticed that for some of them that include bad design issues both in the system under test and in the test suite provided, some of the generated mutants can enter into endless loops. To overcome such inconvenience, we have included timeout limits in the test suite execution. You can check this using the Wodel-Test for Java MuT tool with this reduced version of an old release of the [org.apache.commons.cli](https://github.com/rjust/defects4j/tree/master/framework/projects/Cli) Java project. This buggy Java project is included in a common framework used to validate MuT tools for Java known as the [defects4j](https://github.com/rjust/defects4j) project.
+We evaluated the [Wodel-Test MuT tool for Java](https://gomezabajo.github.io/Wodel-Test/dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Java/) with several Java projects. In some projects, design problems in either the system under test or its test suite can cause particular mutants to enter infinite loops. To address this issue, the tool applies timeout limits when executing the test suite.
+
+This behaviour can be examined using the Wodel-Test MuT tool for Java with the reduced version of an earlier release of the [Apache Commons CLI](https://github.com/rjust/defects4j/tree/master/framework/projects/Cli) project provided below. The project contains a known defect and forms part of [Defects4J](https://github.com/rjust/defects4j), a widely used collection of reproducible Java faults for evaluating software-testing tools.
 </div>
 <br>
 <br>
 <div style="text-align: left" markdown="1">
-[Cli11f System Under Test](https://gomezabajo.github.io/Wodel/Wodel-Test/samples/Cli11f.zip)
+[Cli11f system under test](https://gomezabajo.github.io/Wodel/Wodel-Test/samples/Cli11f.zip)
 <br>
-[Cli11f Test suite](https://gomezabajo.github.io/Wodel/Wodel-Test/samples/Cli11f-test.zip)
+[Cli11f test suite](https://gomezabajo.github.io/Wodel/Wodel-Test/samples/Cli11f-test.zip)
 </div>
 <br>
 <br>
-
-
-
-
