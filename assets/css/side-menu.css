@@ -1,0 +1,302 @@
+/* side-menu.css — deployable left-side navigation drawer for the Wodel-Test
+ * website, shaped after the Gotten website drawer: brand panel with a white
+ * logo tile, tagline, action pills, section labels and icon-led rounded option
+ * rows — in the Wodel family purple-to-coral identity. The toggle sits just
+ * below the fixed Bootstrap navbar, and the drawer stack renders above it. */
+
+.side-menu-toggle {
+  position: fixed;
+  top: 62px;
+  left: 14px;
+  z-index: 1035;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  width: 46px;
+  height: 46px;
+  padding: 0;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.55);
+  background-color: #5b1f6e;
+  background-image: linear-gradient(135deg, #431358 0%, #8e3372 55%, #c95c4b 100%);
+  box-shadow: 0 6px 18px rgba(28, 6, 38, 0.35);
+  cursor: pointer;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.side-menu-toggle:hover,
+.side-menu-toggle:focus {
+  transform: scale(1.06);
+  box-shadow: 0 8px 22px rgba(28, 6, 38, 0.45);
+  outline: none;
+}
+
+.side-menu-toggle:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
+}
+
+.side-menu-toggle span {
+  display: block;
+  width: 20px;
+  height: 2px;
+  border-radius: 2px;
+  background: #ffffff;
+}
+
+.side-menu-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1040;
+  background: rgba(20, 8, 28, 0.55);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.28s ease, visibility 0.28s ease;
+}
+
+.side-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1050;
+  width: 320px;
+  max-width: 85vw;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  background-color: #431358;
+  background-image: linear-gradient(175deg, #431358 0%, #8e3372 62%, #c95c4b 100%);
+  color: #ffffff;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  box-shadow: 4px 0 24px rgba(28, 6, 38, 0.45);
+  transform: translateX(-105%);
+  transition: transform 0.28s ease;
+}
+
+body.side-menu-open .side-menu {
+  transform: translateX(0);
+}
+
+body.side-menu-open .side-menu-overlay {
+  opacity: 1;
+  visibility: visible;
+}
+
+body.side-menu-open {
+  overflow: hidden;
+}
+
+/* ---------- brand panel (Gotten layout) ---------- */
+
+.side-menu-brand {
+  position: relative;
+  padding: 28px 26px 20px;
+  margin-bottom: 4px;
+}
+
+.side-menu-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.85);
+  cursor: pointer;
+  transition: background 0.18s ease, color 0.18s ease;
+}
+
+.side-menu-close .material-icons {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.side-menu-close:hover,
+.side-menu-close:focus {
+  background: rgba(255, 255, 255, 0.24);
+  color: #ffffff;
+  outline: none;
+}
+
+.side-menu-close:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
+}
+
+.side-menu-lockup-row {
+  margin: 0;
+  padding: 0 0 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.side-menu-lockup {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 18px;
+  background: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 20px;
+  box-shadow: 0 10px 24px rgba(28, 6, 38, 0.28);
+  text-decoration: none;
+}
+
+.side-menu-lockup img {
+  display: block;
+  width: 148px;
+  height: auto;
+}
+
+.side-menu-tagline {
+  margin: 0 0 18px;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.side-menu-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.side-menu-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+}
+
+.side-menu-btn--solid {
+  background: #ffffff;
+  color: #5b1f6e;
+  border: 1px solid #ffffff;
+}
+
+.side-menu-btn--solid:hover,
+.side-menu-btn--solid:focus {
+  background: rgba(255, 255, 255, 0.88);
+  color: #431358;
+  text-decoration: none;
+  outline: none;
+}
+
+.side-menu-btn--flat {
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.28);
+}
+
+.side-menu-btn--flat:hover,
+.side-menu-btn--flat:focus {
+  background: rgba(255, 255, 255, 0.22);
+  border-color: rgba(255, 255, 255, 0.45);
+  color: #ffffff;
+  text-decoration: none;
+  outline: none;
+}
+
+.side-menu-btn:focus-visible {
+  outline: 2px solid rgba(255, 255, 255, 0.8);
+  outline-offset: 2px;
+}
+
+/* ---------- section labels + icon rows (Gotten layout) ---------- */
+
+.side-menu-nav {
+  padding: 0 0 24px;
+}
+
+.side-menu-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.side-menu-label {
+  padding: 14px 26px 6px;
+  color: rgba(255, 255, 255, 0.62);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.side-menu-nav li {
+  margin: 0;
+}
+
+.side-menu-nav a {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 16px 6px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.94rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.side-menu-nav a .material-icons {
+  font-size: 20px;
+  line-height: 1;
+  color: inherit;
+  flex: none;
+}
+
+.side-menu-nav a:hover,
+.side-menu-nav a:focus {
+  background: rgba(255, 255, 255, 0.14);
+  color: #ffffff;
+  transform: translateX(2px);
+  text-decoration: none;
+  outline: none;
+}
+
+.side-menu-nav a:focus-visible {
+  outline: 2px solid rgba(255, 255, 255, 0.8);
+  outline-offset: 1px;
+}
+
+.side-menu-nav a.is-active {
+  background: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  font-weight: 700;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .side-menu,
+  .side-menu-overlay,
+  .side-menu-toggle,
+  .side-menu-nav a {
+    transition: none;
+  }
+}
+
+@media print {
+  .side-menu-toggle,
+  .side-menu-overlay,
+  .side-menu {
+    display: none !important;
+  }
+}

@@ -58,4 +58,12 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="{{ '/assets/js/main.js' | prepend: site.baseurl }}"></script>
+
+  <!-- Deployable left-side navigation drawer -->
+  <link rel="stylesheet" href="{{ '/assets/css/side-menu.css' | prepend: site.baseurl }}">
+  <script src="{{ '/assets/js/side-menu.js' | prepend: site.baseurl }}" defer
+    data-title="{{ site.title }}"
+    data-tagline="{{ site.description }}"
+    data-logo="{{ '/assets/img/wodeltest.png' | prepend: site.baseurl }}"
+    data-home="{{ site.baseurl | append: '/' }}"></script>
 </head>
