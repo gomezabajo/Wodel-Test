@@ -1,0 +1,249 @@
+/* landing.css — narrative homepage shapes for the Wodel-Test website
+ * (EMF Kaizen-style content structure), in the original Wodel-Test identity:
+ * Source Code Pro, terminal green #1F7F1F on the dark body tone, grey #777
+ * labels, and the theme's glow hovers. Used by index.md only. */
+
+/* ---------- intro ---------- */
+
+.lead-intro {
+  max-width: 46em;
+  margin: 0 0 1.5em;
+  text-align: left;
+}
+
+.cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 1.4em 0 2.2em;
+}
+
+.btn-green,
+.btn-green-outline {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 9px 20px;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: none;
+  transition: background 0.18s ease, color 0.18s ease,
+              border-color 0.18s ease, box-shadow 0.18s ease;
+}
+
+.btn-green {
+  background: #1F7F1F;
+  color: #ffffff;
+  border: 1px solid #1F7F1F;
+}
+
+.btn-green:hover,
+.btn-green:focus {
+  background: #2a9c2a;
+  border-color: #2a9c2a;
+  color: #ffffff;
+  box-shadow: 0 0 10px rgba(31, 127, 31, 0.55);
+  text-decoration: none;
+}
+
+.btn-green-outline {
+  background: transparent;
+  color: #1F7F1F;
+  border: 1px solid rgba(31, 127, 31, 0.7);
+}
+
+.btn-green-outline:hover,
+.btn-green-outline:focus {
+  background: rgba(31, 127, 31, 0.16);
+  border-color: #1F7F1F;
+  color: #4fbf4f;
+  box-shadow: 0 0 10px rgba(31, 127, 31, 0.4);
+  text-decoration: none;
+}
+
+/* ---------- section scaffolding ---------- */
+
+.section-label {
+  display: block;
+  margin: 2.6em 0 0.2em;
+  color: #777777;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.landing-section h3 {
+  margin-top: 0.2em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid rgba(31, 127, 31, 0.35);
+}
+
+/* ---------- capability bullets ---------- */
+
+.cap-list {
+  list-style: none;
+  margin: 1.2em 0 1.4em;
+  padding: 0;
+  text-align: left;
+}
+
+.cap-list li {
+  position: relative;
+  padding-left: 26px;
+  margin-bottom: 10px;
+}
+
+.cap-list li::before {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 0.5em;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: #1F7F1F;
+  box-shadow: 0 0 6px rgba(31, 127, 31, 0.6);
+}
+
+/* ---------- numbered steps ---------- */
+
+.step {
+  margin-top: 2.2em;
+  text-align: left;
+}
+
+.step h4 {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid rgba(31, 127, 31, 0.3);
+}
+
+.step-number {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #1F7F1F;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+/* ---------- figures ---------- */
+
+.landing-section figure {
+  margin: 1.4em auto;
+  text-align: center;
+}
+
+.landing-section figure img {
+  border: 1px solid rgba(31, 127, 31, 0.35);
+  border-radius: 10px;
+}
+
+.landing-section figcaption,
+.fig-note {
+  margin: 0.7em auto 0;
+  max-width: 44em;
+  color: #8a938a;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+/* ---------- videos ---------- */
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  margin: 1.4em 0;
+}
+
+.video-grid figure {
+  margin: 0;
+}
+
+.video-frame {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: 12px;
+  border: 1px solid rgba(31, 127, 31, 0.4);
+  background: #000000;
+  box-shadow: 0 0 14px rgba(31, 127, 31, 0.18);
+}
+
+.video-frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* ---------- tool cards ---------- */
+
+.tool-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin: 1.4em 0 0.6em;
+  text-align: left;
+}
+
+.tool-card {
+  padding: 18px 18px 12px;
+  border: 1px solid rgba(31, 127, 31, 0.35);
+  border-radius: 14px;
+  background: rgba(31, 127, 31, 0.07);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.tool-card:hover {
+  border-color: rgba(31, 127, 31, 0.7);
+  box-shadow: 0 0 14px rgba(31, 127, 31, 0.25);
+}
+
+.tool-card__tag {
+  display: inline-block;
+  margin-bottom: 8px;
+  padding: 2px 10px;
+  border-radius: 999px;
+  background: rgba(31, 127, 31, 0.18);
+  color: #4fbf4f;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.tool-card h4 {
+  margin: 0 0 6px;
+}
+
+.tool-card p {
+  margin: 0 0 10px;
+  color: #b9c2b9;
+  font-size: 13px;
+}
+
+.tool-card .tool-links {
+  min-height: 30px;
+}
+
+/* ---------- responsive ---------- */
+
+@media (max-width: 900px) {
+  .video-grid,
+  .tool-grid {
+    grid-template-columns: 1fr;
+  }
+}
