@@ -6,6 +6,12 @@ description: Publications page
 ---
 
 <div style="text-align: left" markdown="1">
+- [![Wodel-Test: A model-based framework for engineering language-specific mutation testing tools](../../assets/img/icons/pdfIcon.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://www.sciencedirect.com/science/article/pii/S2352711025001621) Gómez-Abajo, P., Guerra, E., de Lara, J., 2025. [Wodel-Test: A model-based framework for engineering language-specific mutation testing tools](https://www.sciencedirect.com/science/article/pii/S2352711025001621). SoftwareX (Elsevier), Vol 31 (Sep). 102195.
+</div>
+<div style="text-align: left" markdown="1">
+- [![A language-parametric test amplification framework for executable domain-specific languages](../../assets/img/icons/pdfIcon.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://link.springer.com/article/10.1007/s10270-025-01283-4) Khorram, F., Bousse, E., Mottu, J. M., Sunyé, G., Khelladi, D. E., Gómez-Abajo, P., Cañizares, P. C., Guerra, E., de Lara, J., 2025. [A language-parametric test amplification framework for executable domain-specific languages](https://link.springer.com/article/10.1007/s10270-025-01283-4). Software and Systems Modeling (Springer), 2025.
+</div>
+<div style="text-align: left" markdown="1">
 - [![Mutation testing for task-oriented chatbots](../../assets/img/icons/pdfIcon.png){:style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'}](https://dl.acm.org/doi/10.1145/3661167.3661220) Gómez-Abajo, P., Pérez-Soler, S., Cañizares, P. C., Guerra, E., de Lara, J., 2024. [Mutation testing for task-oriented chatbots](https://dl.acm.org/doi/10.1145/3661167.3661220). In ACM 28th International Conference on Evaluation and Assessment in Software Engineering 2024 (EASE). Salerno.
 </div>
 <div style="text-align: left" markdown="1">
