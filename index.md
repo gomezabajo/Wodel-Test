@@ -185,12 +185,12 @@ Wodel-Test is developed by researchers at the Universidad Autónoma de Madrid an
 Universidad Complutense de Madrid. It builds on a broad range of Eclipse Modelling
 technologies, including Xtext, Sirius, Epsilon, OCL Tools, Acceleo, MoDisco, ATL,
 AnATLyzer, CONGA and EMF JSON. These technologies are acknowledged on the
-[Authors & Contributors]({{ '/about/' | prepend: site.baseurl }}) page.
+[Authors & Contributors]({{ '/items/about/' | prepend: site.baseurl }}) page.
 
 Key publications include *Wodel-Test: A model-based framework for engineering
 language-specific mutation testing tools* (SoftwareX, Elsevier, 2025) and *Wodel-Test: A
 model-based framework for language-independent mutation testing* (Software and Systems
 Modeling, Springer, 2021). The complete publication list and funding acknowledgements,
 including the SATORI, FORTE and MASSIVE projects, are available on the
-[Publications & Funding]({{ '/publications/' | prepend: site.baseurl }}) page.
+[Publications & Funding]({{ '/items/publications/' | prepend: site.baseurl }}) page.
 </div>
