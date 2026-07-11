@@ -308,3 +308,18 @@ body.side-menu-open {
     display: none !important;
   }
 }
+
+/* ---------- content overflow guard (unrelated to the drawer) ----------
+ * The theme constrains content images via JavaScript ($("img").addClass(
+ * "img-responsive") in main.js). If any script ever fails, oversized media
+ * would overflow the column, as happened while d3.js was missing from
+ * head.html. This static rule makes the constraint unconditional. */
+
+.content-div img,
+.content-div iframe,
+.content-div video,
+.content-div embed,
+.content-div object {
+  max-width: 100%;
+  height: auto;
+}
