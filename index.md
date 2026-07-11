@@ -19,8 +19,8 @@ already produced MuT tools for Java, ATL, finite automata, logic circuits and ch
 </div>
 
 <div class="landing-section" markdown="1">
-<span class="section-label">Overview</span>
-### Language-independent mutation testing, generated from models.
+<span class="section-label">Language-independent mutation testing, generated from models.</span>
+### Overview
 
 <ul class="cap-list">
   <li><strong>Language independence</strong>: MuT tools can be generated for any language defined by a meta-model</li>
@@ -43,8 +43,8 @@ and offer a rich collection of metrics about the MuT process.
 </div>
 
 <div class="landing-section" markdown="1">
-<span class="section-label">Tool demo</span>
-### See a generated MuT tool in action.
+<span class="section-label">See a generated MuT tool in action.</span>
+### Tool demo
 
 <div class="video-grid">
   <figure>
@@ -63,8 +63,8 @@ and offer a rich collection of metrics about the MuT process.
 </div>
 
 <div class="landing-section" markdown="1">
-<span class="section-label">How Wodel-Test works</span>
-### From language meta-model to mutation testing results, in five steps.
+<span class="section-label">From language meta-model to mutation testing results, in five steps.</span>
+### How ./Wodel-Test works
 
 <article class="step" markdown="1">
 <h4><span class="step-number">1</span>Provide the language meta-model</h4>
@@ -114,8 +114,8 @@ the quality of the test suites.
 </div>
 
 <div class="landing-section" markdown="1">
-<span class="section-label">The tools</span>
-### The designer, and the MuT tools generated with it.
+<span class="section-label">The designer, and the MuT tools generated with it.</span>
+### The tools
 
 <div class="tool-grid">
 
@@ -129,7 +129,7 @@ the quality of the test suites.
 </div>
 
 <div class="tool-card" markdown="1">
-<span class="tool-card__tag">Generated MuT tool</span>
+<span class="tool-card__tag">MuT tool for Java</span>
 <h4><a href="dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Java/">./Wodel-Test for Java</a></h4>
 <p>A mutation testing tool for Java, with jUnit3, jUnit4 and jUnit5 support.</p>
 <div class="tool-links" markdown="1">
@@ -138,7 +138,7 @@ the quality of the test suites.
 </div>
 
 <div class="tool-card" markdown="1">
-<span class="tool-card__tag">Generated MuT tool</span>
+<span class="tool-card__tag">MuT tool for ATL</span>
 <h4><a href="dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20ATL/">./Wodel-Test for ATL</a></h4>
 <p>A mutation testing tool for the ATL model transformation language.</p>
 <div class="tool-links" markdown="1">
@@ -147,7 +147,7 @@ the quality of the test suites.
 </div>
 
 <div class="tool-card" markdown="1">
-<span class="tool-card__tag">Generated MuT tool</span>
+<span class="tool-card__tag">MuT tool for Finite Automata</span>
 <h4><a href="dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Finite%20Automata/">./Wodel-Test for Finite Automata</a></h4>
 <p>A mutation testing tool for finite automata.</p>
 <div class="tool-links" markdown="1">
@@ -156,7 +156,7 @@ the quality of the test suites.
 </div>
 
 <div class="tool-card" markdown="1">
-<span class="tool-card__tag">Generated MuT tool</span>
+<span class="tool-card__tag">MuT tool for Logic Circuits</span>
 <h4><a href="dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Logic%20Circuits/">./Wodel-Test for Logic Circuits</a></h4>
 <p>A mutation testing tool for logic circuits.</p>
 <div class="tool-links" markdown="1">
@@ -165,7 +165,7 @@ the quality of the test suites.
 </div>
 
 <div class="tool-card" markdown="1">
-<span class="tool-card__tag">Generated MuT tool</span>
+<span class="tool-card__tag">MuT tool for Chatbots</span>
 <h4><a href="dropdown/Wodel-Test%20plugins_Wodel-Test%20for%20Chatbots/">./Wodel-Test for Chatbots</a></h4>
 <p>A mutation testing tool for chatbots defined with the CONGA notation.</p>
 <div class="tool-links" markdown="1">
@@ -177,8 +177,8 @@ the quality of the test suites.
 </div>
 
 <div class="landing-section" markdown="1">
-<span class="section-label">Research context</span>
-### An academic research tool for model-driven engineering and software testing.
+<span class="section-label">An academic research tool for model-driven engineering and software testing.</span>
+### Research context
 
 Wodel-Test is developed by researchers at the Universidad Autónoma de Madrid and the
 Universidad Complutense de Madrid, and builds on a rich stack of Eclipse Modeling
