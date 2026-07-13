@@ -24,7 +24,7 @@ priority: 5
 <br>
 <br>
 
-### Wodel-Test for Java with JUnit 3
+### Automatic handling of endless-loop mutants
 <br>
 <br>
 <div style="text-align: left" markdown="1">
