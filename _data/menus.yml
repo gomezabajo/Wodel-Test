@@ -175,7 +175,7 @@
       identifier: zipLC
       alt: Wodel project ZIP archive containing logic-circuit mutation operators
     - title: ./Wodel-Test for Logic Circuits
-      section: FA
+      section: LC
       url: https://gomezabajo.github.io/Wodel/Wodel-Test/ecore/LogicCircuit.ecore
       content: "<img src='../../assets/img/icons/NewEcore.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: ecoreLC
