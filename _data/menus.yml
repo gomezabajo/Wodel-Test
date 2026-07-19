@@ -14,7 +14,7 @@
       alt: Eclipse update site
     - title: ./Wodel-Test designer
       section: designer
-      url: https://www.dropbox.com/scl/fi/d698rghjmord6r2ig4dya/eclipse.zip?rlkey=57qufltl84a396inezs9l65si&dl=0
+      url: https://www.dropbox.com/scl/fi/hd0tgezp5f8xzm2s4xetw/eclipse.zip?rlkey=eyejr0o9oyyeja0jrvql9waup&dl=1
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutDesigner
       alt: Standalone Eclipse distribution with the Wodel-Test designer
@@ -56,7 +56,7 @@
       alt: Java Ecore meta-model
     - title: ./Wodel-Test for Java
       section: Java
-      url: https://www.dropbox.com/scl/fi/g7pn7enhd93axfhrdhafx/eclipse.zip?rlkey=q7uni28gxf26s3qrutr4nslfw&dl=0
+      url: https://www.dropbox.com/scl/fi/y3s3gve3zyhfzpvbeuwxx/eclipse.zip?rlkey=crkg7jkibtv3fc040df2tpbv5&dl=1
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutJava
       alt: Standalone Eclipse distribution with Wodel-Test for Java
@@ -98,7 +98,7 @@
       alt: ATL Ecore meta-model
     - title: ./Wodel-Test for ATL
       section: ATL
-      url: https://www.dropbox.com/scl/fi/06ptvz1j3vzey5wpwd41u/eclipse.zip?rlkey=99x8xvo7023w91wi81dgtf7c9&dl=0
+      url: https://www.dropbox.com/scl/fi/9t6ozvd82j7n4h978nqkw/eclipse.zip?rlkey=e9xyd6jukfurdnbw5vvxtmuck&dl=1
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutATL
       alt: Standalone Eclipse distribution with Wodel-Test for ATL
@@ -140,7 +140,7 @@
       alt: Finite-automata Ecore meta-model
     - title: ./Wodel-Test for Finite Automata
       section: FA
-      url: https://www.dropbox.com/scl/fi/lt3izw39nau9ewx2xk3os/eclipse.zip?rlkey=7ni6t1dtwz3rg80r2dtyeqx0r&dl=0
+      url: https://www.dropbox.com/scl/fi/hstvp95i0a0u74z42k6tw/eclipse.zip?rlkey=8ea9p718d6ehx0yixfu19kdj8&dl=1
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutFA
       alt: Standalone Eclipse distribution with Wodel-Test for finite automata
@@ -182,7 +182,7 @@
       alt: Logic-circuit Ecore meta-model
     - title: ./Wodel-Test for Logic Circuits
       section: LC
-      url: https://www.dropbox.com/scl/fi/8a19kssxwlceo1sfjlsbs/eclipse.zip?rlkey=gxs40qz0ydyw4s44po2wve2e4&dl=0
+      url: https://www.dropbox.com/scl/fi/dvdxqosx1qckcbc5txaie/eclipse.zip?rlkey=9dgkfteynp4wuoqa2zilk2tmy&dl=1
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutLC
       alt: Standalone Eclipse distribution with Wodel-Test for logic circuits
@@ -236,7 +236,7 @@
       alt: Associated dataset
     - title: ./Wodel-Test for Chatbots
       section: Chatbots
-      url: https://www.dropbox.com/scl/fi/u4s3rbkcb51pbpqbuku3k/eclipse.zip?rlkey=0uc1zgfuho25q7e3clu979dp4&dl=0
+      url: https://www.dropbox.com/scl/fi/i5hvzvksfio2xi14u589c/eclipse.zip?rlkey=9pjfrz9q48vskq3t6etr9jysf&dl=1
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutChatbots
       alt: Standalone Eclipse distribution with Wodel-Test for chatbots
