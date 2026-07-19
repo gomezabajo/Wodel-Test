@@ -17,7 +17,7 @@ priority: 5
 
 Following the Wodel-Test approach, the tool was generated from a **meta-model of Java** and a catalogue of **mutation operators defined with the [Wodel](https://gomezabajo.github.io/Wodel/) DSL**. The catalogue covers classical Java mutations, such as replacing arithmetic, relational, conditional and assignment operators, modifying constants and variable references, and altering method invocations. Since the operators are expressed declaratively at the model level, the catalogue can be extended without touching the code of the generated tool.
 
-In operation, the tool parses the Java program under test into a model conforming to the Java meta-model, applies the mutation operators to synthesise the mutants, discards duplicate and potentially equivalent ones, and extracts each surviving mutant back into compilable Java code. It then executes the test suite of the project — with support for both **JUnit 4 and JUnit 5** — against every mutant, classifies the mutants as killed or alive, and reports the resulting **mutation score** together with detailed metrics of the whole MuT process, all within the Eclipse IDE.
+In operation, the tool parses the Java program under test into a model conforming to the Java meta-model, applies the mutation operators to synthesise the mutants, discards duplicate and potentially equivalent ones, and extracts each surviving mutant back into compilable Java code. It then executes the test suite of the project — with support for **JUnit3, JUnit 4 and JUnit 5** — against every mutant, classifies the mutants as killed or alive, and reports the resulting **mutation score** together with detailed metrics of the whole MuT process, all within the Eclipse IDE.
 </div>
 <br>
 <div style="text-align: left" markdown="1">
