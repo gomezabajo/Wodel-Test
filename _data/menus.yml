@@ -14,6 +14,12 @@
       alt: Eclipse update site
     - title: ./Wodel-Test designer
       section: designer
+      url: https://gomezabajo.github.io/Wodel/Wodel-Test/plugins/designer.zip
+      content: "<img src='../../assets/img/icons/wodelZip.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
+      identifier: zipDesigner
+      alt: Wodel project ZIP archive containing designer project
+    - title: ./Wodel-Test designer
+      section: designer
       url: https://www.dropbox.com/scl/fi/hd0tgezp5f8xzm2s4xetw/eclipse.zip?rlkey=eyejr0o9oyyeja0jrvql9waup&dl=1
       content: "<img src='../../assets/img/icons/eclipse32.png' style='float: left;margin-right: 12px;margin-top: 4px; height:20px; width:20px;'>"
       identifier: mutDesigner
