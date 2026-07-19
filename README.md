@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gomezabajo.github.io/Wodel-Test">
-    <img src="https://gomezabajo.github.io/Wodel-Test/assets/img/wodeltest.png" width="224" height="120" alt="Wodel-Test logo" />
+    <img src="https://gomezabajo.github.io/Wodel-Test/assets/img/wodeltest.png" width="173" height="120" alt="Wodel-Test logo" />
   </a>
 </p>
 
